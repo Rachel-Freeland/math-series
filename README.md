@@ -16,11 +16,12 @@
   - `DATABASE_URL`: NA
 - Python3 highly suggested
 - After cloning to your machine, at commandline prompt, enter: `python math_series.py`
+- Install required dependencies in folder. At commandline prompt for folder, enter: `pip install -r requirements.txt`
 
 ## Tests
 
-- How do you run tests?
-- Any tests of note?
+- How do you run tests? 14 tests ran using PyTest
+- Any tests of note? No
 - Describe any tests that you did not complete, skipped, etc.
   None
   
